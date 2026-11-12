@@ -1,3 +1,24 @@
+---
+abstract: |
+  The Draft National Artificial Intelligence Policy published for public
+  comment in April 2026 was withdrawn within weeks, the stated reason being
+  that parts of it were AI-generated and carried errors discovered only after
+  publication. It should not have survived a superficial reading. The cost is
+  not confined to that document: it set out to build trust in South Africa's
+  AI effort, and its failure risks casting suspicion even on the grains of
+  truth it contained.
+
+  A policy is nonetheless urgently needed, and it has to be human-centric and
+  grounded in our democratic values and freedoms. No single person or
+  institution holds the answers; the scope touches everyone and everything.
+
+  This article sets out some of the issues that deserve detailed exploration
+  — where AI fits in and which parts of the stack a country like South Africa
+  can realistically build, the infrastructure and data centres it rests on,
+  models, data, applications, governance and ethics, and why reliance creates
+  risk. It is an invitation to a discussion rather than a conclusion.
+---
+
 # Towards an IT policy
 
 ## Preamble

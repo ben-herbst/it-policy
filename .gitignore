@@ -39,3 +39,6 @@ _build/
 
 # MyST build outputs
 _build
+
+# The PDF export writes to the repository root, not into _build/
+it-policy.pdf
