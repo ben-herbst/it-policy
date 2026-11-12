@@ -43,7 +43,7 @@ Let's start at the bottom-most layer.
 
 ## Infrastructure
 
->At Davos, Karp told BlackRock CEO Larry Fink that the people building AI infrastructure will be in higher demand than the people using it in many white-collar >roles.
+>At Davos, Karp told BlackRock CEO Larry Fink that the people building AI infrastructure will be in higher demand than the people using it in many white-collar roles.
 >
 >-- [Alex Karp, CEO Palantir](https://medium.com/predict/palantir-ceo-says-only-two-types-will-survive-ai-and-elite-degrees-arent-one-of-them-341c222044e0) 
 
@@ -80,7 +80,7 @@ All the compute runs on computer chips and their avialability is crucial for all
 :::{attention} Forbes
 >Nvidia remains the world’s largest company, ranking ahead of Microsoft (\$4 trillion) and 
 >Apple (\$3.9 trillion), which crossed the \$4 trillion threshold for the first time Tuesday,
->as well as Google parent Alphabet (\$3.2 trillion), Amazon (\$2.4 trillion) and Meta (\$1.8 >trillion).
+>as well as Google parent Alphabet (\$3.2 trillion), Amazon (\$2.4 trillion) and Meta (\$1.8 trillion).
 >
 >--- {abbr}`Forbes (19 October, 2025)`
 :::
@@ -94,7 +94,7 @@ In order to train the gargantuan models consisting of trillions of parameters, a
 
 :::{attention} NYT
 >The artificial intelligence boom has one big thing holding it back: energy. A.I. companies
->rely on power-hungry data centers to train their models, and they need gigawatts of power to >keep them humming.
+>rely on power-hungry data centers to train their models, and they need gigawatts of power to keep them humming.
 >
 >--- {abbr}`Erin Griffith (New York Times, 26 April 2026)`
 :::
@@ -211,23 +211,23 @@ Let me mention a few other ideas floating around:
 :class: dropdown
 >*Banned applications*
 >
->The new rules ban certain AI applications that threaten citizens’ rights, including biometric categorisation systems based on sensitive characteristics and >untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases. Emotion recognition in the workplace and schools, >social scoring, predictive policing (when it is based solely on profiling a person or assessing their characteristics), and AI that manipulates human behaviour >or exploits people’s vulnerabilities will also be forbidden.
+>The new rules ban certain AI applications that threaten citizens’ rights, including biometric categorisation systems based on sensitive characteristics and untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases. Emotion recognition in the workplace and schools, social scoring, predictive policing (when it is based solely on profiling a person or assessing their characteristics), and AI that manipulates human behaviour or exploits people’s vulnerabilities will also be forbidden.
 >
 >*Law enforcement exemptions*
->The use of biometric identification systems (RBI) by law enforcement is prohibited in principle, except in exhaustively listed and narrowly defined situations. >“Real-time” RBI can only be deployed if strict safeguards are met, e.g. its use is limited in time and geographic scope and subject to specific prior judicial or >administrative authorisation. Such uses may include, for example, a targeted search of a missing person or preventing a terrorist attack. Using such systems >post-facto (“post-remote RBI”) is considered a high-risk use case, requiring judicial authorisation being linked to a criminal offence.
+>The use of biometric identification systems (RBI) by law enforcement is prohibited in principle, except in exhaustively listed and narrowly defined situations. “Real-time” RBI can only be deployed if strict safeguards are met, e.g. its use is limited in time and geographic scope and subject to specific prior judicial or administrative authorisation. Such uses may include, for example, a targeted search of a missing person or preventing a terrorist attack. Using such systems post-facto (“post-remote RBI”) is considered a high-risk use case, requiring judicial authorisation being linked to a criminal offence.
 >
 >*Obligations for high-risk systems*
->Clear obligations are also foreseen for other high-risk AI systems (due to their significant potential harm to health, safety, fundamental rights, environment, >democracy and the rule of law). Examples of high-risk AI uses include critical infrastructure, education and vocational training, employment, essential private >and public services (e.g. healthcare, banking), certain systems in law enforcement, migration and border management, justice and democratic processes (e.g. >influencing elections). Such systems must assess and reduce risks, maintain use logs, be transparent and accurate, and ensure human oversight. Citizens will have >a right to submit complaints about AI systems and receive explanations about decisions based on high-risk AI systems that affect their rights.
+>Clear obligations are also foreseen for other high-risk AI systems (due to their significant potential harm to health, safety, fundamental rights, environment, democracy and the rule of law). Examples of high-risk AI uses include critical infrastructure, education and vocational training, employment, essential private and public services (e.g. healthcare, banking), certain systems in law enforcement, migration and border management, justice and democratic processes (e.g. influencing elections). Such systems must assess and reduce risks, maintain use logs, be transparent and accurate, and ensure human oversight. Citizens will have a right to submit complaints about AI systems and receive explanations about decisions based on high-risk AI systems that affect their rights.
 >
 >*Transparency requirements*
 >
->General-purpose AI (GPAI) systems, and the GPAI models they are based on, must meet certain transparency requirements, including compliance with EU copyright law >and publishing detailed summaries of the content used for training. The more powerful GPAI models that could pose systemic risks will face additional >requirements, including performing model evaluations, assessing and mitigating systemic risks, and reporting on incidents.
+>General-purpose AI (GPAI) systems, and the GPAI models they are based on, must meet certain transparency requirements, including compliance with EU copyright law and publishing detailed summaries of the content used for training. The more powerful GPAI models that could pose systemic risks will face additional requirements, including performing model evaluations, assessing and mitigating systemic risks, and reporting on incidents.
 >
 >Additionally, artificial or manipulated images, audio or video content (“deepfakes”) need to be clearly labelled as such.
 >
 >*Measures to support innovation and SMEs*
 >
->Regulatory sandboxes and real-world testing will have to be established at the national level, and made accessible to SMEs and start-ups, to develop and train >innovative AI before its placement on the market.
+>Regulatory sandboxes and real-world testing will have to be established at the national level, and made accessible to SMEs and start-ups, to develop and train innovative AI before its placement on the market.
 >
 >-- [News, European Parliament](https://www.europarl.europa.eu/news/en/press-room/20240308IPR19015/artificial-intelligence-act-meps-adopt-landmark-law)
 :::
@@ -239,9 +239,9 @@ Let me mention a few other ideas floating around:
 3. In the US a few tech companies have amassed enormous riches and with that enormous political power and influence. Also power to influence elections through various means - financial contributions to preferred political parties and candidates, manipulating the minds of voters (Cialdini on how this is done from a psychological perspective, Applebaum, Snyder, oetc, ne how it is done in practice.)
 
 :::{attention} Human involvement
->But as AI expands what people can do, it also raises the premium on good judgment. Most AI users we surveyed recognize this. Asked which human skills are more >important as AI takes on more work, they said two topped the list: quality control of AI output (50%) and critical thinking—analyzing information objectively and >making a reasoned judgment (46%). And 86% say they treat AI output as a starting point, not a final answer, and that they “stay responsible for the thinking.” >They see their role is shifting from generating answers to evaluating, refining, and owning them.
+>But as AI expands what people can do, it also raises the premium on good judgment. Most AI users we surveyed recognize this. Asked which human skills are more important as AI takes on more work, they said two topped the list: quality control of AI output (50%) and critical thinking—analyzing information objectively and making a reasoned judgment (46%). And 86% say they treat AI output as a starting point, not a final answer, and that they “stay responsible for the thinking.” They see their role is shifting from generating answers to evaluating, refining, and owning them.
 >
->Frontier Professionals are even more aware of the importance of human judgment when working with AI. They rank higher across every measure in the survey related >to critical thinking and quality control—and that shows up in how they work. They are more likely than non-Frontier professionals to say they intentionally do >some work without AI to keep their skills sharp (43% vs. 30%) and to say they intentionally pause before starting work to decide what should be done by AI versus >a human (53% vs. 33%). Frontier Professionals refuse to outsource their thinking—they know long-term success means continuing to build human skills and not >letting them atrophy.
+>Frontier Professionals are even more aware of the importance of human judgment when working with AI. They rank higher across every measure in the survey related to critical thinking and quality control—and that shows up in how they work. They are more likely than non-Frontier professionals to say they intentionally do some work without AI to keep their skills sharp (43% vs. 30%) and to say they intentionally pause before starting work to decide what should be done by AI versus a human (53% vs. 33%). Frontier Professionals refuse to outsource their thinking—they know long-term success means continuing to build human skills and not letting them atrophy.
 >
 >-- {abbr}`[Microsoft, 5 May 2026](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization)`
 
@@ -274,22 +274,22 @@ The bank’s bottom line, he said, was helped by shedding 1,000 jobs through att
 
 :::{attention} Full quote
 :class: dropdown
->Less than four months ago, Bank of America’s chief executive, Brian T. Moynihan, volunteered >in a TV interview what he would say to his 210,000 employees about the chance of artificial >intelligence replacing human work.
+>Less than four months ago, Bank of America’s chief executive, Brian T. Moynihan, volunteered in a TV interview what he would say to his 210,000 employees about the chance of artificial intelligence replacing human work.
 >
 >“You don’t have to worry,” he said. “It’s not a threat to their jobs.”
 >
->Last week, after Bank of America reported \$8.6 billion in profit for the first quarter — \$1.6 >billion more than the same period a year earlier — Mr. Moynihan struck a different tone.
+>Last week, after Bank of America reported \$8.6 billion in profit for the first quarter — \$1.6 billion more than the same period a year earlier — Mr. Moynihan struck a different tone.
 >
->The bank’s bottom line, he said, was helped by shedding 1,000 jobs through attrition by >“eliminating work and applying technology,” which he repeatedly specified was artificial >intelligence. He predicted more of that in the months and years to come.
+>The bank’s bottom line, he said, was helped by shedding 1,000 jobs through attrition by “eliminating work and applying technology,” which he repeatedly specified was artificial intelligence. He predicted more of that in the months and years to come.
 :::
 
->Daniela Amodei, co-founder and president of Anthropic, has said studying the humanities will become “more essential than ever” and that qualities like emotional >intelligence, communication skills, kindness, compassion, and curiosity matter deeply in AI development.
+>Daniela Amodei, co-founder and president of Anthropic, has said studying the humanities will become “more essential than ever” and that qualities like emotional intelligence, communication skills, kindness, compassion, and curiosity matter deeply in AI development.
 >
->“The things that make us human will become much more important instead of much less important,” she told ABC News. “When we look to hire people at Anthropic >today, we look for people who are great communicators, who have excellent EQ and people skills.”
+>“The things that make us human will become much more important instead of much less important,” she told ABC News. “When we look to hire people at Anthropic today, we look for people who are great communicators, who have excellent EQ and people skills.”
 >
 >-- [Daniela Amodei](https://medium.com/predict/palantir-ceo-says-only-two-types-will-survive-ai-and-elite-degrees-arent-one-of-them-341c222044e0)
 
->What bothers me most is the absolutism. Karp says there are “basically two ways to know you have a future.” That is marketing, not analysis. Plenty of people >will thrive in an AI economy without being tradespeople or neurodivergent. Nurses, therapists, teachers, managers, salespeople, anyone whose job depends on human >trust, judgment, or relationship-building is not getting automated soon.
+>What bothers me most is the absolutism. Karp says there are “basically two ways to know you have a future.” That is marketing, not analysis. Plenty of people will thrive in an AI economy without being tradespeople or neurodivergent. Nurses, therapists, teachers, managers, salespeople, anyone whose job depends on human trust, judgment, or relationship-building is not getting automated soon.
 >
 >-- [Tasmia Sharmin](https://medium.com/predict/palantir-ceo-says-only-two-types-will-survive-ai-and-elite-degrees-arent-one-of-them-341c222044e0)
 
@@ -306,7 +306,7 @@ Specifics, in no particular order.
 
 ## Reliance creates risks
 
->In a small but meaningful break from American technology, DeepSeek said for the first time that its new model had been optimized to run on chips made by the >Chinese tech giant Huawei. This was a milestone in China’s long-running effort to develop advanced technologies at home and reduce its reliance on Western >innovation.
+>In a small but meaningful break from American technology, DeepSeek said for the first time that its new model had been optimized to run on chips made by the Chinese tech giant Huawei. This was a milestone in China’s long-running effort to develop advanced technologies at home and reduce its reliance on Western innovation.
 >
 >-- {abbr}`Meaghan Tobin (NYT, 12 May 2026)`
 
