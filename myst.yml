@@ -22,7 +22,21 @@ project:
       output: review.pdf
 
 site:
-  template: article-theme
+  # Pinned to article-theme v1.4.1 rather than the bare name `article-theme`.
+  #
+  # The bare name resolves through api.mystmd.org to that repository's `main`
+  # branch, so every build silently picks up whatever has been pushed there.
+  # v2.0.0 landed on 2026-11-10 and mystmd 1.12.0 cannot prerender it: the
+  # build dies on `No route matches URL "/_public/<file>-<hash>.md"`.
+  #
+  # This project publishes no site and has no workflow, so nothing was broken
+  # remotely -- but a local build on 2026-11-12 failed exactly this way. Same
+  # pin as consciousness and inga-review.
+  #
+  # mystmd 1.12.0 is the latest release, so there is no version to upgrade to,
+  # and the template repository publishes no git tags, hence the commit SHA.
+  # Revisit once a mystmd release supports article-theme v2.
+  template: https://github.com/myst-templates/article-theme/archive/4acce1eba558b301c2aadca99a7804aa6e294e1e.zip
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
