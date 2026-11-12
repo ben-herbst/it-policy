@@ -19,7 +19,7 @@ project:
   exports:
     - format: pdf
       template: lapreprint-typst
-      output: review.pdf
+      output: it-policy.pdf
 
 site:
   # Pinned to article-theme v1.4.1 rather than the bare name `article-theme`.
