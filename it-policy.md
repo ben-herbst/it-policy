@@ -78,9 +78,9 @@ Data centers also consume an enormous amount of water for, among other things, o
 All the compute runs on computer chips and their avialability is crucial for all processing that takes place. Think Nvidia, the world's largest company. According to [Forbes](https://www.forbes.com/sites/tylerroush/2025/10/29/nvidia-becomes-first-company-worth-5-trillion/), 
 
 :::{attention} Forbes
->Nvidia remains the world’s largest company, ranking ahead of Microsoft ($4 trillion) and 
->Apple ($3.9 trillion), which crossed the \$4 trillion threshold for the first time Tuesday,
->as well as Google parent Alphabet (\$3.2 trillion), Amazon (\$2.4 trillion) and Meta ($1.8 >trillion).
+>Nvidia remains the world’s largest company, ranking ahead of Microsoft (\$4 trillion) and 
+>Apple (\$3.9 trillion), which crossed the \$4 trillion threshold for the first time Tuesday,
+>as well as Google parent Alphabet (\$3.2 trillion), Amazon (\$2.4 trillion) and Meta (\$1.8 >trillion).
 >
 >--- {abbr}`Forbes (19 October, 2025)`
 :::
@@ -278,7 +278,7 @@ The bank’s bottom line, he said, was helped by shedding 1,000 jobs through att
 >
 >“You don’t have to worry,” he said. “It’s not a threat to their jobs.”
 >
->Last week, after Bank of America reported $8.6 billion in profit for the first quarter — $1.6 >billion more than the same period a year earlier — Mr. Moynihan struck a different tone.
+>Last week, after Bank of America reported \$8.6 billion in profit for the first quarter — \$1.6 >billion more than the same period a year earlier — Mr. Moynihan struck a different tone.
 >
 >The bank’s bottom line, he said, was helped by shedding 1,000 jobs through attrition by >“eliminating work and applying technology,” which he repeatedly specified was artificial >intelligence. He predicted more of that in the months and years to come.
 :::
